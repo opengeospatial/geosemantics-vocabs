@@ -1,6 +1,6 @@
 # GeoSPARQL SWG
 
-This directory contains all the resources produced by the GeoSPARQL SWG. Currently (July 2026) the main resources are for GeoSPARQL 1.1 in the directury `geosparql-1.1`.
+This directory contains all the resources produced by the GeoSPARQL SWG.
 
 ## Contact
 
